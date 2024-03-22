@@ -18,29 +18,7 @@ Este projeto consiste em uma calculadora de tabuada que permite ao usuário visu
 4. Limpar:
    - O botão "LIMPAR" permite ao usuário limpar o campo de número, redefinir a operação para adição e ocultar a tabuada.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/TABUADA-BASICA.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd TABUADA-BASICA
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip TABUADA-BASICA.zip
-```
-
-* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. Digitar Número:
    - Insira um número entre 0 e 10 no campo "Número".
 
@@ -56,9 +34,9 @@ unzip TABUADA-BASICA.zip
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
